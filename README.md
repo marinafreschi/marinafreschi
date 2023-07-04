@@ -1,4 +1,4 @@
-# Oie! 👋
+# Oie! 👋🏻
 
 ### Eu sou a Marina, sou estudante do curso de Análise e Desenvolvimento de Sistemas, pela Mackenzie.
 
